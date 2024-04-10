@@ -1,9 +1,9 @@
 # CL-VAE
 Repository containing the code for the CL-VAE anomaly detection model as described in "Improved Anomaly Detection through Conditional Latent Space VAE Ensembles"
 
-![LatentMNIST](figures/Latent Space MNIST.png?raw=true "Title")
-![LatentFashion](figures/Latent Space Fashion-MNIST.png?raw=true "Title")
-![LatentCifar10](figures/Latent Space Cifar10.png?raw=true "Title")
+![Latent Space MNIST](https://github.com/oskarastrom/CL-VAE/assets/28202051/176ab17d-88f2-4e0c-9bca-dab0264f9cf0)
+![Latent Space Fashion-MNIST](https://github.com/oskarastrom/CL-VAE/assets/28202051/c4da5df9-58c9-4e5d-8b76-6c02038c7f2f)
+![Latent Space Cifar10](https://github.com/oskarastrom/CL-VAE/assets/28202051/4d768796-6357-4d7c-a568-e21cad55c4c8)
 
 The code runs in three steps.
 
