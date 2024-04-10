@@ -1,4 +1,4 @@
-# CL-VAE
+# CL-VAE: Conditional Latent space Variational Autoencoder
 Repository containing the code for the CL-VAE anomaly detection model as described in "Improved Anomaly Detection through Conditional Latent Space VAE Ensembles"
 
 ![Latent Space MNIST](https://github.com/oskarastrom/CL-VAE/assets/28202051/176ab17d-88f2-4e0c-9bca-dab0264f9cf0)
